@@ -1,3 +1,5 @@
+
+<div align="center">
 <h1 align="center"><b>Description - Loop Machine</b></h1>
 
 <a>• Playing audio tracks simultaneously, it is possible to mute each song individually.</a><br><br>
@@ -9,7 +11,7 @@
   <b>Loop Machine App On Deploy:</b><br>
   <a href="https://loop-m.herokuapp.com/"><b>Heroku Link 📲 Look On Live Now!</b></a> 
   <br>
-<br><img src="https://github.com/BENJAMIN-1-WS/loop-machine-react/blob/main/src/Screenshot%202022-01-03%20115756.png" width="70%" ><br>
+<br><img src="https://github.com/BENJAMIN-1-WS/loop-machine-react/blob/main/src/Screenshot%202022-01-03%20115756.png" onClick="www.google.com" width="70%" ><br>
 </p>
 
 
@@ -20,12 +22,13 @@
 **Design libraries**:` Bootstrap, font awesome.`
 <br><br>
 <h1 align="center"><b>Install</b></h1>
+  
 If you've previously installed create-react-app globally via `npm install -g create-react-app`,
 we recommend you uninstall the package using npm uninstall `-g create-react-app` or `yarn global remove create-react-app` to ensure that npx always uses the latest version.
+  
+**commands**
 
-**Local View:**
-
-> `npm i`  then  `npm start`
+`npm i`  then  `npm start`
 
 
 Then open http://localhost:3000/ to see your app.
@@ -37,3 +40,4 @@ Then open http://localhost:3000/ to see your app.
 <br>
 
 <br>
+</div>
