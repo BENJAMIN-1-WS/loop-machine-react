@@ -11,7 +11,7 @@
   <b>Loop Machine App On Deploy:</b><br>
   <a href="https://loop-m.herokuapp.com/"><b>Heroku Link 📲 Look On Live Now!</b></a> 
   <br>
-<br><img src="https://github.com/BENJAMIN-1-WS/loop-machine-react/blob/main/src/Screenshot%202022-01-03%20115756.png" onClick="www.google.com" height="500px" ><br>
+<br><img src="https://github.com/BENJAMIN-1-WS/loop-machine-react/blob/main/src/Screenshot%202022-01-03%20115756.png" onClick="www.google.com" height="400px" ><br>
 </p>
 
 
