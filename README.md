@@ -1,6 +1,4 @@
-# Description - Loop Machine
-
-
+<h1 align="center"><b>Description - Loop Machine</b></h1>
 
 <a>• Playing audio tracks simultaneously, it is possible to mute each song individually.</a><br><br>
 <a>• Activating the Loop button will allow you to repeat the sound player over and over again. (On. Off) </a><br><br>
@@ -21,11 +19,14 @@
 
 **Design libraries**:` Bootstrap, font awesome.`
 <br><br>
-**Install:**`If you've previously installed create-react-app globally via npm install -g create-react-app, we recommend you uninstall the package using npm uninstall -g create-react-app or yarn global remove create-react-app to ensure that npx always uses the latest version.`
+<h1 align="center"><b>Install</b></h1>
+If you've previously installed create-react-app globally via `npm install -g create-react-app`,
+we recommend you uninstall the package using npm uninstall `-g create-react-app` or `yarn global remove create-react-app` to ensure that npx always uses the latest version.
 
-> npm i
+**Local View:**
 
-> npm start
+> `npm i`  then  `npm start`
+
 
 Then open http://localhost:3000/ to see your app.
 
